@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="6" failures="0" disabled="0" errors="0" time="0.027" timestamp="2021-08-08T04:08:36.080" name="AllTests">
+  <testsuite name="UserInput" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0.004" timestamp="2021-08-08T04:08:36.081">
+    <testcase name="AskMealCostAndTip" status="run" result="completed" time="0.004" timestamp="2021-08-08T04:08:36.081" classname="UserInput" />
+  </testsuite>
+  <testsuite name="Taxes" tests="2" failures="0" disabled="0" skipped="0" errors="0" time="0.009" timestamp="2021-08-08T04:08:36.085">
+    <testcase name="Taxes1" status="run" result="completed" time="0.004" timestamp="2021-08-08T04:08:36.085" classname="Taxes" />
+    <testcase name="Taxes2" status="run" result="completed" time="0.004" timestamp="2021-08-08T04:08:36.090" classname="Taxes" />
+  </testsuite>
+  <testsuite name="Tip" tests="2" failures="0" disabled="0" skipped="0" errors="0" time="0.008" timestamp="2021-08-08T04:08:36.095">
+    <testcase name="ZeroTip" status="run" result="completed" time="0.004" timestamp="2021-08-08T04:08:36.095" classname="Tip" />
+    <testcase name="Tip" status="run" result="completed" time="0.003" timestamp="2021-08-08T04:08:36.099" classname="Tip" />
+  </testsuite>
+  <testsuite name="Driver" tests="1" failures="0" disabled="0" skipped="0" errors="0" time="0.003" timestamp="2021-08-08T04:08:36.103">
+    <testcase name="Output" status="run" result="completed" time="0.003" timestamp="2021-08-08T04:08:36.103" classname="Driver" />
+  </testsuite>
+</testsuites>

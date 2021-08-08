@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='42' length='3'>&#10;&#10;</replacement>
+<replacement offset='110' length='3'>&#10;&#10;</replacement>
+<replacement offset='126' length='1'> </replacement>
+<replacement offset='128' length='2'>&#10;  </replacement>
+<replacement offset='150' length='2'>&#10;  </replacement>
+<replacement offset='158' length='3'> </replacement>
+<replacement offset='174' length='3'> </replacement>
+<replacement offset='185' length='3'> </replacement>
+<replacement offset='195' length='3'> </replacement>
+<replacement offset='204' length='3'></replacement>
+<replacement offset='208' length='2'>&#10;  </replacement>
+<replacement offset='230' length='2'>&#10;  </replacement>
+<replacement offset='260' length='4'>&#10;&#10;  </replacement>
+<replacement offset='266' length='2'>&#10;  </replacement>
+<replacement offset='306' length='4'>&#10;&#10;  </replacement>
+<replacement offset='312' length='2'>&#10;  </replacement>
+<replacement offset='331' length='2'>&#10;  </replacement>
+<replacement offset='346' length='4'>&#10;&#10;  </replacement>
+<replacement offset='352' length='2'>&#10;  </replacement>
+<replacement offset='374' length='2'>&#10;  </replacement>
+<replacement offset='391' length='4'>&#10;&#10;  </replacement>
+<replacement offset='397' length='2'>&#10;  </replacement>
+<replacement offset='418' length='2'>&#10;  </replacement>
+<replacement offset='434' length='4'>&#10;&#10;  </replacement>
+<replacement offset='440' length='2'>&#10;  </replacement>
+<replacement offset='461' length='2'>&#10;  </replacement>
+<replacement offset='477' length='4'>&#10;&#10;  </replacement>
+<replacement offset='483' length='2'>&#10;  </replacement>
+<replacement offset='504' length='2'>&#10;  </replacement>
+<replacement offset='520' length='4'>&#10;&#10;  </replacement>
+<replacement offset='526' length='2'>&#10;  </replacement>
+<replacement offset='580' length='2'>&#10;  </replacement>
+<replacement offset='611' length='4'>&#10;&#10;  </replacement>
+<replacement offset='617' length='2'>&#10;  </replacement>
+<replacement offset='636' length='2'>&#10;  </replacement>
+<replacement offset='651' length='4'>&#10;&#10;  </replacement>
+<replacement offset='657' length='2'>&#10;  </replacement>
+<replacement offset='663' length='3'> </replacement>
+<replacement offset='700' length='3'>&#10;       </replacement>
+<replacement offset='724' length='1'>&#10;       </replacement>
+<replacement offset='784' length='4'>&#10;       </replacement>
+<replacement offset='810' length='1'>&#10;       </replacement>
+<replacement offset='876' length='1'>&#10;       </replacement>
+<replacement offset='904' length='4'>&#10;       </replacement>
+<replacement offset='951' length='1'>&#10;       </replacement>
+<replacement offset='1007' length='1'>&#10;       </replacement>
+<replacement offset='1036' length='3'>&#10;       </replacement>
+<replacement offset='1062' length='3'>&#10;       </replacement>
+<replacement offset='1081' length='3'></replacement>
+<replacement offset='1085' length='4'>&#10;&#10;  </replacement>
+<replacement offset='1100' length='5'>&#10;</replacement>
+</replacements>

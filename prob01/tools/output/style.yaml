@@ -1,0 +1,16 @@
+---
+MainSourceFile:  '/home/mike/Documents/cpsc-121/solutions/lab-01-solution/prob01/main.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'expected '';'' after expression'
+      FilePath:        main.cc
+      FileOffset:      310
+      Replacements:
+        - FilePath:        main.cc
+          Offset:          310
+          Length:          0
+          ReplacementText: ';'
+    Level:           Error
+    BuildDirectory:  '/home/mike/Documents/cpsc-121/solutions/lab-01-solution/prob01'
+...

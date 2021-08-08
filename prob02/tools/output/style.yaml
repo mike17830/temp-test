@@ -1,0 +1,21 @@
+---
+MainSourceFile:  '/home/mike/Documents/cpsc-121/solutions/lab-01-solution/prob02/main.cc'
+Diagnostics:
+  - DiagnosticName:  clang-diagnostic-error
+    DiagnosticMessage:
+      Message:         'no matching member function for call to ''emplace'''
+      FilePath:        main.cc
+      FileOffset:      438
+      Replacements:    []
+    Notes:
+      - Message:         'candidate function template not viable: no known conversion from ''int'' to ''std::vector<MyClass>::const_iterator'' (aka ''__normal_iterator<const MyClass *, std::vector<MyClass>>'') for 1st argument'
+        FilePath:        '/../lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/bits/stl_vector.h'
+        FileOffset:      40518
+        Replacements:    []
+    Level:           Error
+    BuildDirectory:  '/home/mike/Documents/cpsc-121/solutions/lab-01-solution/prob02'
+    Ranges:
+      - FilePath:        main.cc
+        FileOffset:      436
+        Length:          2
+...
